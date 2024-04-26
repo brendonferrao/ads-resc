@@ -1,0 +1,52 @@
+ID,Age,Gender,Education,Income,Location,Productivity_Score
+1,35,Male,Bachelor's Degree,60000,New York,8.2
+2,42,Female,Master's Degree,75000,Los Angeles,7.5
+3,28,Male,High School Diploma,40000,Chicago,6.8
+4,55,Female,PhD,100000,Houston,8.9
+5,38,Other,Associate's Degree,55000,Miami,7.1
+6,45,Male,Bachelor's Degree,80000,Atlanta,7.3
+7,33,Female,High School Diploma,48000,Seattle,6.5
+8,29,Male,Master's Degree,72000,San Francisco,8.7
+9,48,Female,Bachelor's Degree,85000,Dallas,8.4
+10,26,Male,Some College,35000,Denver,6.2
+11,40,Female,PhD,90000,Boston,8.6
+12,31,Male,Some College,45000,Philadelphia,6.4
+13,50,Other,Associate's Degree,60000,Phoenix,7.9
+14,34,Female,Master's Degree,78000,Detroit,7.7
+15,47,Male,High School Diploma,58000,Washington DC,7.0
+16,36,Female,Bachelor's Degree,70000,San Diego,7.6
+17,27,Male,Some College,38000,Minneapolis,6.1
+18,44,Female,PhD,95000,Tampa,8.8
+19,32,Male,High School Diploma,42000,St. Louis,6.6
+20,51,Female,Master's Degree,82000,Baltimore,8.3
+21,39,Other,Associate's Degree,62000,Portland,7.8
+22,37,Male,Bachelor's Degree,75000,Charlotte,7.4
+23,30,Female,Some College,50000,San Antonio,6.9
+24,49,Male,PhD,88000,Orlando,8.5
+25,25,Female,High School Diploma,32000,Sacramento,5.9
+26,41,Male,Bachelor's Degree,68000,Kansas City,7.2
+27,35,Female,Master's Degree,74000,Cleveland,7.9
+28,52,Male,Some College,62000,Las Vegas,7.7
+29,46,Female,PhD,97000,Cincinnati,9.1
+30,33,Male,Associate's Degree,56000,Raleigh,7.3
+31,29,Other,Bachelor's Degree,69000,Indianapolis,7.5
+32,53,Female,High School Diploma,54000,Austin,7.2
+33,38,Male,Master's Degree,80000,San Jose,8.4
+34,24,Female,Some College,42000,Nashville,6.7
+35,43,Other,PhD,92000,Virginia Beach,8.7
+36,31,Male,Associate's Degree,64000,Oklahoma City,7.6
+37,54,Female,Bachelor's Degree,86000,Louisville,8.2
+38,26,Other,High School Diploma,36000,Memphis,6.3
+39,50,Male,Master's Degree,79000,Milwaukee,8.0
+40,28,Female,Some College,47000,Albuquerque,6.8
+41,55,Other,PhD,94000,Honolulu,8.9
+42,36,Male,Associate's Degree,66000,Birmingham,7.1
+43,32,Female,Bachelor's Degree,72000,Richmond,7.4
+44,47,Other,Master's Degree,83000,Salt Lake City,8.6
+45,30,Male,Some College,49000,Buffalo,6.9
+46,49,Female,High School Diploma,57000,Tucson,7.0
+47,35,Other,PhD,91000,Fresno,8.5
+48,25,Male,Bachelor's Degree,67000,El Paso,7.2
+49,51,Female,Associate's Degree,76000,Tulsa,8.3
+50,37,Other,Master's Degree,80000,Omaha,8.1
+

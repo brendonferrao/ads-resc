@@ -1,0 +1,54 @@
+Name,Age,Gender,Income,Education,Location
+John Doe,25,Male,135000,Bachelor's,New York
+Jane Smith,32,Female,60000,Master's,Los Angeles
+Michael Johnson,45,Male,78000,High School,Chicago
+Emily Wang,28,Female,12000,,San Francisco
+,,Male,89000,PhD,Boston
+Sarah Brown,37,Female,,Bachelor's,Miami
+David Lee,41,Male,95000,Master's,Houston
+Alex Johnson,29,Male,58000,Bachelor's,Seattle
+Emma Davis,35,Female,72000,,Washington D.C.
+Christopher Miller,42,Male,105000,PhD,Atlanta
+Linda Wilson,33,Female,63000,Master's,Dallas
+Amelia Scott,25,Female,58000,High School,Las Vegas
+Tom Harris,48,Male,80000,High School,Denver
+Jessica Taylor,,Female,55000,Bachelor's,Phoenix
+Daniel Martinez,39,Male,,Master's,Detroit
+Sophia Garcia,27,Female,59000,High School,Philadelphia
+William Anderson,44,Male,92000,PhD,Minneapolis
+Olivia Thomas,31,Female,68000,Bachelor's,San Diego
+Joseph Rodriguez,36,Male,77000,Master's,Portland
+Ashley Hernandez,26,Female,50000,,Las Vegas
+Matthew Nguyen,30,Male,60000,High School,Charlotte
+Ava Perez,29,Female,71000,PhD,San Antonio
+James Kim,43,Male,85000,Master's,Orlando
+Sophia White,34,Female,,Bachelor's,Tampa
+Daniel Brown,47,Male,99000,PhD,St. Louis
+Isabella Martinez,28,Female,54000,Master's,Kansas City
+Michael Taylor,38,Male,74000,Bachelor's,New Orleans
+Ethan Garcia,37,Male,78000,High School,San Jose
+Emma Moore,32,Female,67000,PhD,Cleveland
+Mia Jones,40,Female,82000,Master's,Austin
+Jayden Robinson,31,Male,69000,Bachelor's,Cincinnati
+Madison Allen,35,Female,73000,High School,Raleigh
+,,Male,86000,PhD,Indianapolis
+Charlotte Perez,45,Female,95000,Master's,Salt Lake City
+Elijah Brown,26,Male,,Bachelor's,Sacramento
+Harper Scott,33,Female,64000,PhD,Oklahoma City
+Aiden Hall,49,Male,90000,High School,Milwaukee
+Scarlett Young,27,Female,56000,Master's,Nashville
+,,Male,100000,Bachelor's,Baltimore
+Zoe King,41,Female,74000,PhD,Pittsburgh
+Lucas Evans,28,Male,61000,High School,Memphis
+Ella Rivera,30,Female,69000,Master's,Louisville
+Mason Flores,39,Male,83000,Bachelor's,San Jose
+Aria Turner,34,Female,72000,PhD,Albuquerque
+Benjamin Wright,37,Male,77000,Master's,Honolulu
+,,Female,66000,Bachelor's,Anchorage
+Jackson Clark,43,Male,88000,PhD,Portland
+Amelia Scott,25,Female,58000,High School,Las Vegas
+Noah Green,46,Male,97000,Master's,Denver
+Liam Hall,31,Male,70000,Bachelor's,San Francisco
+Sophie Baker,36,Female,75000,PhD,Seattle
+Ashley Hernandez,26,Female,50000,,Las Vegas
+

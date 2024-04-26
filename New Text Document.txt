@@ -1,0 +1,21 @@
+1. Implement Measure of central location
+
+2. Implement Measure of variation
+
+3. Implement data cleaning techniques
+
+4. Implement skewness and kurtosis
+
+5. Implement Karl Pearson's Coefficient of Skewness
+
+6. Implement Bowleys's Coefficient of Skewness
+
+7. Implement Karl Pearson's Correlation coefficient
+
+8. Implement Spearman correlation coefficient
+
+9. Implement data visualization techniques for num/categ/qual/quant data
+
+10. Implement data visualization techniques for univariate data
+
+11. Implement data visualization techniques for multivariate data
